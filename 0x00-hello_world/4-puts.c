@@ -3,14 +3,10 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ *  Return: Always 0 (Sucess)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+		puts("\"Programming is like building a multilingual puzzle");
+			return (0);
 }
- - betty 4-puts.c ==> khass tkhrjlek bhal haka main 
-
-========== 4-puts.c ==========
-main
